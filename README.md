@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @CaioIOX
+- I am currently studying to become an Android developer
+- If you have any tips or recommendations, let me know.
