@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @CaioIOX
+- 👋 Hi, I’m Caio!
 - I am currently studying to become an Android developer
 - If you have any tips or recommendations, let me know.
