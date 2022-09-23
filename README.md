@@ -1,15 +1,12 @@
-- 👋 Olá!! Eu sou Caio
+[![Typing SVG](https://readme-typing-svg.demolab.com/?color=ff79c6&lines=👋+Olá!!+Eu+sou+Caio;Seja+Bem+Vindo!!!)](https://git.io/typing-svg)
 
 Atualmente tenho estudado desenvolvimento Mobile, Android nativo com Kotlin e flutter.
 
 Também tenho trabalhado com Php - laravel, node.js e com banco de dados usando SQL!
 
-<div align="center">
-  <a href="https://github.com/CaioIOX"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioIOX&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioIOX&layout=compact&langs_count=7&theme=merko"/>
-</div>
-    
-    
-  
-  <div style="display: inline_block"><br>
-   <img align="center" alt="Caio-kt" height="30" width="100" src=https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white
-  </div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CaioIOX&count_private=true&theme=dracula" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioIOX&layout=compact&theme=dracula" />
+</a>
