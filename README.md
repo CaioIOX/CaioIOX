@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?color=ff79c6&lines=👋+Olá!!+Eu+sou+Caio;Seja+Bem+Vindo!!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?color=ff79c6&lines=👋+Olá,+Eu+sou+Caio!!!;Seja+Bem+Vindo!!!)](https://git.io/typing-svg)
 
 Atualmente tenho estudado desenvolvimento Mobile, Android nativo com Kotlin e flutter.
 
