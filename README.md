@@ -5,7 +5,7 @@ Atualmente tenho estudado desenvolvimento Mobile, Android nativo com Kotlin e fl
 Também tenho trabalhado com Php - laravel, node.js e com banco de dados usando SQL!
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CaioIOX&count_private=true&theme=dracula" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=CaioIOX&count_private=true&theme=dracula" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioIOX&layout=compact&theme=dracula" />
