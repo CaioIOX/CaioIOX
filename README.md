@@ -2,7 +2,7 @@
 
 Atualmente tenho estudado desenvolvimento Mobile, Android nativo com Kotlin e flutter.
 
-Também tenho trabalhado com Php - laravel, node.js e com banco de dados usando SQL!
+Também tenho trabalhado com Php - laravel, node.js e com banco de dados usando Postgresql!
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=CaioIOX&count_private=true&theme=dracula" />
