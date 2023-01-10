@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?color=ff79c6&lines=👋+Olá,+Eu+sou+Caio!!!;Seja+Bem+Vindo!!!)](https://git.io/typing-svg)
 
-Atualmente tenho estudado desenvolvimento Mobile, Android nativo com Kotlin e flutter.
+Atualmente tenho estudado desenvolvimento Back end com Node.js e TypeScript.
 
-Também tenho trabalhado com Php - laravel, node.js e com banco de dados usando Postgresql!
+Trabalho atualmente com Php - laravel, node.js e Postgresql!
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=CaioIOX&count_private=true&theme=dracula" />
