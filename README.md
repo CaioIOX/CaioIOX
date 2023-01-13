@@ -4,9 +4,5 @@ Atualmente tenho estudado desenvolvimento Back end com Node.js e TypeScript.
 
 Trabalho atualmente com Php - laravel, node.js e Postgresql!
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CaioIOX&count_private=true&theme=dracula" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioIOX&layout=compact&theme=dracula" />
-</a>
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=CaioIOX&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioIOX&layout=compact&theme=dark&hide_border=true" /></a> |
+| ------------- | ------------- |
